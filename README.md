@@ -82,8 +82,7 @@ Screenshots
 screenshot_timestamp.jpg
 ▶️ Installation
 Clone Repository
-git clone https://github.com/https://github.com/kathulavigneshwari96-art/Smart-Traffic-Monitoring-System/edit/main/README.md/Smart-Traffic-Monitoring-System.git
-cd Smart-Traffic-Monitoring-System
+git clone https://github.com/kathulavigneshwari96-art/Smart-Traffic-Monitoring-System/edit/main/README.md
 Install Dependencies
 pip install ultralytics
 pip install opencv-python
