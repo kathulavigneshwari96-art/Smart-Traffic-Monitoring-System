@@ -82,7 +82,7 @@ Screenshots
 screenshot_timestamp.jpg
 ▶️ Installation
 Clone Repository
-git clone https://github.com/yourusername/Smart-Traffic-Monitoring-System.git
+git clone https://github.com/https://github.com/kathulavigneshwari96-art/Smart-Traffic-Monitoring-System/edit/main/README.md/Smart-Traffic-Monitoring-System.git
 cd Smart-Traffic-Monitoring-System
 Install Dependencies
 pip install ultralytics
